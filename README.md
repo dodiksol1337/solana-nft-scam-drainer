@@ -9,6 +9,7 @@ Solana nft scam mint magiceden and more
 <a href="https://ibb.co/VvTxk10"><img src="https://i.ibb.co/JzHqS1W/2022-07-04-17-44-51.png" alt="2022-07-04-17-44-51" border="0"></a>
 <a href="https://ibb.co/Q8YtBjM"><img src="https://i.ibb.co/wJpjHr4/2022-07-04-17-06-34.png" alt="2022-07-04-17-06-34" border="0"></a>
 <a href="https://ibb.co/bBPBcnx"><img src="https://i.ibb.co/jMTMnFd/2022-07-04-17-27-17.png" alt="2022-07-04-17-27-17" border="0"></a>
+<a href="https://ibb.co/1Mp09L2"><img src="https://i.ibb.co/r3LQZmy/2022-07-04-18-09-54.png" alt="2022-07-04-18-09-54" border="0"></a>
 
 # 💡 Features
 - [x] Inspect Element Detection
