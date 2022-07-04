@@ -1,5 +1,5 @@
 # solana-nft-scam
-Solana nft scam mint magiceden and more
+Solana nft scam mint magiceden and more SOLANA NFT DRAINER SOLANA TOOLS SOLANA NFT 
 # ⚠️ This public source has backdoors+is obscufated and should not be used !
 
 # ⚠️ For help: [@solscam1](https://t.me/solscam1 & Store: https://solscam.sellix.io/
